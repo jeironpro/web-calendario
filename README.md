@@ -1,4 +1,4 @@
-# calendario
+# web-calendario
 
 ## 📌 Descripción
 Este proyecto forma parte de mi portafolio personal.  
